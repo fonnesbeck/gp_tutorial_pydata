@@ -1,0 +1,19 @@
+name: gp_tutorial
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- h5py
+- ipython
+- joblib
+- jupyter
+- pandas
+- patsy
+- pymc3
+- notebook
+- seaborn
+- six
+- theano
+- tqdm
